@@ -12,7 +12,7 @@ This REST API does the following:
 - allows users to create a new post
 - allows users to delete their previous posts
 
-## Live Version is [= here =](https://grocery-shopping-list-creator.herokuapp.com/)
+## Live Version is [= here =](https://online-message-board.herokuapp.com/)
 
 ### Demo: 
 ***
